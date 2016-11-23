@@ -1,5 +1,5 @@
 body {
-  padding-left: 11em;
+  padding-left: 14em;
   font-family: Georgia, "Times New Roman",
         Times, serif;
   color: purple;
@@ -9,16 +9,16 @@ ul.navbar {
   padding: 0;
   margin: 0;
   position: absolute;
-  top: 2em;
+  top: 3em;
   left: 1em;
-  width: 9em }
+  width: 12em }
 h1 {
   font-family: Helvetica, Geneva, Arial,
         SunSans-Regular, sans-serif }
 ul.navbar li {
   background: white;
-  margin: 0.5em 0;
-  padding: 0.3em;
+  margin: 0.8em 0;
+  padding: 0.5em;
   border-right: 1em solid black }
 ul.navbar a {
   text-decoration: none }
